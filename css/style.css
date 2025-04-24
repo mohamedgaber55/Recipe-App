@@ -46,7 +46,7 @@
     transition: 1s;
     overflow: hidden;
     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
-    animation: change-back 10s linear infinite;
+    animation: change-back 15s linear infinite;
 }
 .search-area::before{
     content: "";
