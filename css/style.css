@@ -281,7 +281,7 @@
 }
 @media (min-width: 768px) and (max-width: 991px){
     .search-area, .recipe-details{
-        width: 45% !important;
+        width: 40% !important;
     }
     .results {
         width: 50% !important;
