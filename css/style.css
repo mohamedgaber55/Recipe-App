@@ -96,7 +96,7 @@
     display: block;
 }
 .keywords{
-    margin-left: 5px;
+    text-align : center;
     color: white;
     font-weight: bold;
 }
