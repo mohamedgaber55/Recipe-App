@@ -219,7 +219,7 @@
 .results .box .details p{
     margin: 0px 0px 15px;
     font-size: 19px;
-    font-family: "Dancing Script", cursive;
+    font-weight : bold;
 }
 .results .box .details button{
     padding: 7px 20px;
